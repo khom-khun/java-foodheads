@@ -1,0 +1,15 @@
+foods:
+  taco:
+    username: Crunchy_Taco34
+    name: Taco
+    hunger: 5
+    saturation: 13
+    crafting:
+      - '   '
+      - wbw
+      - mwe
+    codes:
+      b: COOKED_BEEF
+      w: WHEAT
+      e: EGG
+      m: MILK_BUCKET

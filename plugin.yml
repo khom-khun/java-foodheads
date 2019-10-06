@@ -1,0 +1,5 @@
+name: ConsumableHeads
+version: 0.1
+author: ppsychrite
+main: me.ppsychrite.ConsumableHeads.ConsumableHeads
+api-version: 1.13
